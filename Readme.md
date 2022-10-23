@@ -5,7 +5,7 @@ Gamer | Techie | Blender | Web Development |
 
 
 
-![Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.trio.dev%2Fhubfs%2FImported_Blog_Media%2Fdbc631c76245baabe08c31d016a94de2-2.jpg&imgrefurl=https%3A%2F%2Fwww.trio.dev%2Fblog%2Freact-developer&tbnid=VncGnP8u_OhSLM&vet=12ahUKEwiLh_bJ1vb6AhW2NLcAHeO-BXcQMygzegQIARBl..i&docid=RN8EGzMNMfdDPM&w=1278&h=630&q=developer&ved=2ahUKEwiLh_bJ1vb6AhW2NLcAHeO-BXcQMygzegQIARBl)
+![Logo](https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg)
 
 
 ## Badges
@@ -58,7 +58,9 @@ Javascript | C# | CSS | HTML
 This project is bulit and Maintained by:
 
 [Samuel Jayasingh](https://github.com/SamuelJayasingh)
-[Santhosh](https://github.com/santhosharun18)
+
+
+[Santhosh D](https://github.com/santhosharun18)
 
 ## 🔗 Links
 
