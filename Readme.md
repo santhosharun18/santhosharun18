@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXRmZmF0d3FnaTRiOG9ia25xMnV5NXAzbWh2d2V1NWV2aG0ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgM4N8m1iRzH4hQh/giphy.gif" width="200" />
+  
   <h1>Hi there, I'm Santhosh! 👋</h1>
   <p>A passionate and driven AI & Data Science graduate on a quest to build intelligent solutions and unravel data insights.</p>
 </div>
@@ -93,14 +93,14 @@ Here are a few highlights from my portfolio. Feel free to explore my repositorie
 I'm always open to collaborating on interesting projects or discussing opportunities.
 
 * **LinkedIn:** www.linkedin.com/in/santhosh-d-2a6ba322
-* **Email:** [Your Professional Email Address Here]
+* **Email:** santhosharun31@gmail.com
 * **Portfolio/Personal Website:** [Your Website URL Here, if applicable]
 
 <p align="center">
-  <a href="[Your LinkedIn Profile URL]">
+  <a href="www.linkedin.com/in/santhosh-d-2a6ba322">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:[Your Professional Email Address]">
+  <a href="mailto:santhosharun31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   </p>
