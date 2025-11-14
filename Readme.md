@@ -13,6 +13,7 @@ I'm a recent B.Tech Artificial Intelligence and Data Science graduate from the *
 I'm eager to kickstart my career and am actively seeking challenging entry-level opportunities in:
 * **Data Analyst**
 * **AIML Engineer**
+* **GEN AI Engineer**
 * **Python Full Stack Developer**
 
 I thrive in dynamic environments where I can continuously learn, innovate, and contribute to cutting-edge projects that make a real impact.
